@@ -1,1 +1,1 @@
-# BOoT_JA
+# for query program
